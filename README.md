@@ -13,4 +13,6 @@ Pandas - Klib - Plotly - Seaborn - Numpy - Matplotlib
 
 For running the notebooks you have to run the first cell and then the rest. You need Python 3 on your machine beside the mentioned python
 packages. 
+Historical_Crop_Prices_Analysis Notebook is for the EDA part of the project
+
 
